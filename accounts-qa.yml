@@ -1,0 +1,12 @@
+
+build:
+  version: "2.0"
+
+accounts:
+  message: "welcome to eazybank account related QA API"
+  contactDetails:
+    name: "John Doe - QA Lead"
+    email: "john@eazybank.com"
+  onCallSupport:
+    - "(555)555-1234"
+    - "(555)523-1345"

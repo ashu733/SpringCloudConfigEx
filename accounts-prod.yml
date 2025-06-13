@@ -7,7 +7,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "welcome to eazybank account related PRODUCTION API"
+  message: "welcome to eazybank account related rabbit mq for production API"
   contactDetails:
     name: "John Doe - Prod Owner"
     email: "{cipher}e2c20921e82a76c34f27a4fd6b801b411487ee9669666063d0f31c38e55cb5198ac33e84f8abe7140f446a642ea887a6"

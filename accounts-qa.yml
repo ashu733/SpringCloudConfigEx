@@ -6,8 +6,9 @@ accounts:
   message: "welcome to eazybank account related QA API"
   contactDetails:
     name: "John Doe - QA Lead"
-    email: "cae8c816f4b631ef455888845844c04cee978ed98a5f8470414e403e798337c337072d775b2bfddff4c8c71dbc3ba98a"
+    email: "{cipher}cae8c816f4b631ef455888845844c04cee978ed98a5f8470414e403e798337c337072d775b2bfddff4c8c71dbc3ba98a"
   onCallSupport:
     - "(555)555-1234"
     - "(555)523-1345"
+
 
